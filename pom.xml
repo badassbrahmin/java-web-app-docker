@@ -24,7 +24,7 @@
 		<junit.version>4.12</junit.version>
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>https://sonarcloud.io/</sonar.host.url>
-                <sonar.organization>github124</sonar.organization>
+               
                 <sonar.projectKey>github124</sonar.projectKey>
                 <sonar.login>2b8796d20785e064bed4e85ab006e0a9bcc5b658</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
